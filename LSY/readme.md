@@ -1,0 +1,1 @@
+#Function1: Draw pictures of all transcripts of a gene to form PDF files and transcript information of the gene text.
